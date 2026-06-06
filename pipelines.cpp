@@ -35,7 +35,7 @@ int main() {
     print(odd, "odds");
     print_range(data, "rangeprint");
     print(std::views::single(50), "single");
-    auto range = std::views::iota(1, 35);
+    auto range = std::views::iota(1, 25);
     print(range, "rangeiota");
     return 0;
 }
