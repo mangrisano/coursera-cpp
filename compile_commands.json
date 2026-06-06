@@ -1,0 +1,325 @@
+[
+  {
+    "file": "aggregates.cpp",
+    "arguments": [
+      "/usr/bin/clang++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-pedantic",
+      "-O2",
+      "-g",
+      "-fsanitize=address",
+      "aggregates.cpp",
+      "-o",
+      "bin/aggregates"
+    ],
+    "directory": "/Users/m.angrisano/Coding/coursera/coursera-cpp",
+    "output": "bin/aggregates"
+  },
+  {
+    "file": "loops.cpp",
+    "arguments": [
+      "/usr/bin/clang++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-pedantic",
+      "-O2",
+      "-g",
+      "-fsanitize=address",
+      "loops.cpp",
+      "-o",
+      "bin/loops"
+    ],
+    "directory": "/Users/m.angrisano/Coding/coursera/coursera-cpp",
+    "output": "bin/loops"
+  },
+  {
+    "file": "unicode.cpp",
+    "arguments": [
+      "/usr/bin/clang++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-pedantic",
+      "-O2",
+      "-g",
+      "-fsanitize=address",
+      "unicode.cpp",
+      "-o",
+      "bin/unicode"
+    ],
+    "directory": "/Users/m.angrisano/Coding/coursera/coursera-cpp",
+    "output": "bin/unicode"
+  },
+  {
+    "file": "bindings.cpp",
+    "arguments": [
+      "/usr/bin/clang++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-pedantic",
+      "-O2",
+      "-g",
+      "-fsanitize=address",
+      "bindings.cpp",
+      "-o",
+      "bin/bindings"
+    ],
+    "directory": "/Users/m.angrisano/Coding/coursera/coursera-cpp",
+    "output": "bin/bindings"
+  },
+  {
+    "file": "constants.cpp",
+    "arguments": [
+      "/usr/bin/clang++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-pedantic",
+      "-O2",
+      "-g",
+      "-fsanitize=address",
+      "constants.cpp",
+      "-o",
+      "bin/constants"
+    ],
+    "directory": "/Users/m.angrisano/Coding/coursera/coursera-cpp",
+    "output": "bin/constants"
+  },
+  {
+    "file": "booleans.cpp",
+    "arguments": [
+      "/usr/bin/clang++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-pedantic",
+      "-O2",
+      "-g",
+      "-fsanitize=address",
+      "booleans.cpp",
+      "-o",
+      "bin/booleans"
+    ],
+    "directory": "/Users/m.angrisano/Coding/coursera/coursera-cpp",
+    "output": "bin/booleans"
+  },
+  {
+    "file": "lambda.cpp",
+    "arguments": [
+      "/usr/bin/clang++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-pedantic",
+      "-O2",
+      "-g",
+      "-fsanitize=address",
+      "lambda.cpp",
+      "-o",
+      "bin/lambda"
+    ],
+    "directory": "/Users/m.angrisano/Coding/coursera/coursera-cpp",
+    "output": "bin/lambda"
+  },
+  {
+    "file": "attributes.cpp",
+    "arguments": [
+      "/usr/bin/clang++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-pedantic",
+      "-O2",
+      "-g",
+      "-fsanitize=address",
+      "attributes.cpp",
+      "-o",
+      "bin/attributes"
+    ],
+    "directory": "/Users/m.angrisano/Coding/coursera/coursera-cpp",
+    "output": "bin/attributes"
+  },
+  {
+    "file": "enums.cpp",
+    "arguments": [
+      "/usr/bin/clang++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-pedantic",
+      "-O2",
+      "-g",
+      "-fsanitize=address",
+      "enums.cpp",
+      "-o",
+      "bin/enums"
+    ],
+    "directory": "/Users/m.angrisano/Coding/coursera/coursera-cpp",
+    "output": "bin/enums"
+  },
+  {
+    "file": "println.cpp",
+    "arguments": [
+      "/usr/bin/clang++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-pedantic",
+      "-O2",
+      "-g",
+      "-fsanitize=address",
+      "println.cpp",
+      "-o",
+      "bin/println"
+    ],
+    "directory": "/Users/m.angrisano/Coding/coursera/coursera-cpp",
+    "output": "bin/println"
+  },
+  {
+    "file": "formatting.cpp",
+    "arguments": [
+      "/usr/bin/clang++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-pedantic",
+      "-O2",
+      "-g",
+      "-fsanitize=address",
+      "formatting.cpp",
+      "-o",
+      "bin/formatting"
+    ],
+    "directory": "/Users/m.angrisano/Coding/coursera/coursera-cpp",
+    "output": "bin/formatting"
+  },
+  {
+    "file": "concepts.cpp",
+    "arguments": [
+      "/usr/bin/clang++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-pedantic",
+      "-O2",
+      "-g",
+      "-fsanitize=address",
+      "concepts.cpp",
+      "-o",
+      "bin/concepts"
+    ],
+    "directory": "/Users/m.angrisano/Coding/coursera/coursera-cpp",
+    "output": "bin/concepts"
+  },
+  {
+    "file": "comparisons.cpp",
+    "arguments": [
+      "/usr/bin/clang++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-pedantic",
+      "-O2",
+      "-g",
+      "-fsanitize=address",
+      "comparisons.cpp",
+      "-o",
+      "bin/comparisons"
+    ],
+    "directory": "/Users/m.angrisano/Coding/coursera/coursera-cpp",
+    "output": "bin/comparisons"
+  },
+  {
+    "file": "orderings.cpp",
+    "arguments": [
+      "/usr/bin/clang++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-pedantic",
+      "-O2",
+      "-g",
+      "-fsanitize=address",
+      "orderings.cpp",
+      "-o",
+      "bin/orderings"
+    ],
+    "directory": "/Users/m.angrisano/Coding/coursera/coursera-cpp",
+    "output": "bin/orderings"
+  },
+  {
+    "file": "utilities.cpp",
+    "arguments": [
+      "/usr/bin/clang++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-pedantic",
+      "-O2",
+      "-g",
+      "-fsanitize=address",
+      "utilities.cpp",
+      "-o",
+      "bin/utilities"
+    ],
+    "directory": "/Users/m.angrisano/Coding/coursera/coursera-cpp",
+    "output": "bin/utilities"
+  },
+  {
+    "file": "algorithms_ranges.cpp",
+    "arguments": [
+      "/usr/bin/clang++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-pedantic",
+      "-O2",
+      "-g",
+      "-fsanitize=address",
+      "algorithms_ranges.cpp",
+      "-o",
+      "bin/algorithms_ranges"
+    ],
+    "directory": "/Users/m.angrisano/Coding/coursera/coursera-cpp",
+    "output": "bin/algorithms_ranges"
+  },
+  {
+    "file": "pipelines.cpp",
+    "arguments": [
+      "/usr/bin/clang++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-pedantic",
+      "-O2",
+      "-g",
+      "-fsanitize=address",
+      "pipelines.cpp",
+      "-o",
+      "bin/pipelines"
+    ],
+    "directory": "/Users/m.angrisano/Coding/coursera/coursera-cpp",
+    "output": "bin/pipelines"
+  }
+]
