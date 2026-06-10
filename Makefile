@@ -9,7 +9,7 @@ BUILD_DIR := build
 PROGRAMS := aggregates loops unicode bindings constants booleans \
             lambda attributes enums println formatting concepts \
 			comparisons orderings utilities algorithms_ranges pipelines \
-			subroutines
+			subroutines concurrency
 
 .PHONY: all clean format
 
