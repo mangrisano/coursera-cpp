@@ -8,7 +8,8 @@ BUILD_DIR := build
 
 PROGRAMS := aggregates loops unicode bindings constants booleans \
             lambda attributes enums println formatting concepts \
-			comparisons orderings utilities algorithms_ranges pipelines
+			comparisons orderings utilities algorithms_ranges pipelines \
+			subroutines
 
 .PHONY: all clean format
 
