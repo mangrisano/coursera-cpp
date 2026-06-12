@@ -11,6 +11,8 @@ std::string_view to_string(Color color) {
         return "Green";
     case Color::Blue:
         return "Blue";
+    default:
+        return "";
     };
 }
 
